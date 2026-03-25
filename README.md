@@ -1,18 +1,27 @@
 # Image Error Codes
-Images created by © 2025 TechNova
 
-All images were created using **LibreSprite**:
+A collection of custom error code images created by DevFlare.
+
+---
+
+## Creation Tools
+
+These images were created using pixel art software.
+
+### Free Option
+
+If you are looking for a free option:
 [https://github.com/LibreSprite/LibreSprite/](https://github.com/LibreSprite/LibreSprite/)
 
-If you prefer a more up-to-date alternative, you can also try:
+### Paid Option
 
-## Alternative Software
-### Free (but harder to set up)
-[https://github.com/aseprite/aseprite](https://github.com/aseprite/aseprite)
-
-### Paid (easy to setup, with extra features)
+The original software used for creation:
 [https://www.aseprite.org/](https://www.aseprite.org/)
 
-## Join Our Community
-Have ideas or suggestions? Join our Discord:
-[dc.gg/technova](https://dc.gg/technova)
+---
+
+## Community
+
+Have ideas, suggestions, or feedback?
+Join the DevFlare Discord server:
+[dc.devflare.de](https://dc.devflare.de)
